@@ -1,4 +1,10 @@
 # ARTS <a href="https://www.zhihu.com/question/301150832">ARTS来源</a>
+```
+    有机会听过耗子叔一次分享，观点鲜明，对自己影响很大。
+    订阅了耗子叔的极客时间，也追随着挑战ARTS。
+    愿自己早日走入一线大厂Google/Facebook/Microsoft/IBM等
+    要去最牛的地方，接触最牛的人。
+```
 ## ARTS介绍
 起源于耗子叔在极客时间发起的。
 ### 每周完成一个ARTS：
